@@ -37,8 +37,8 @@
 ### Em Aula
 - Minha apresentação 
 - Expor os objetivos da aula
-- Apresentação geral do conceito de grafos com exemplos (chegar aqui até a metade da aula)
-- Definição de Grafos
+- Apresentação geral do conceito de grafos com exemplos 
+- Definição de Grafos (chegar aqui até a metade da aula - 10 min)
 - Implementando um Grafo em Java
 - Aplicação Redes de Amigos
 - Mostrar sugestão de atividade prática
