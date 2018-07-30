@@ -46,7 +46,7 @@
 
 ## Recursos Didáticos
 
-- Slides e datasets
+- Slides, datasets e código Java
 
 ## Avaliação
 
